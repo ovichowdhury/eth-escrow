@@ -1,0 +1,11 @@
+// for initialization of project
+$ truffle init
+
+// for creating artifacts
+$ truffle create <contract || test || migration> <name>
+
+// for compiling contract
+$ truffle compile
+
+// for deployment
+$ truffle migrate --compile-all --network <name form truffle-config> --reset
