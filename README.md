@@ -19,7 +19,7 @@
 ## Local Installation
 1. Smart Contract
 ```bash
-$ truffle migrate --compile-all --network <name form truffle-config> --reset
+$ truffle migrate --compile-all --network <name from truffle-config> --reset
 ```
 2. Provide the contract address in eth-escrow/app/configs/naiveEscrow.js
 3. Install the DApp Dependencies
