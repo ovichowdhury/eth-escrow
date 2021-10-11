@@ -32,6 +32,20 @@ $ npm run build && npm start
 ```
 5. Integrated with Metamask, so make sure you have the extension in your browser. and enjoy !!!
   
+## How to Use
+#### Depositor Portal
+![image](https://eth-escrow.vercel.app/depositor.PNG)
+
+#### Arbitror Portal
+![image](https://eth-escrow.vercel.app/arbitror.PNG)
+
+### Instructions
+1. Make sure Metamask is installed in your browser.
+2. Allow https://eth-escrow.vercel.app to use Metamask (Metamask will ask for permission during first time usage)
+3. For every successful or failed transaction the initiator of the transaction has to pay for the gas fee of the transaction.
+4. Deposit, Withdraw and Unlock buttons are the transactional buttons of this application so this actions will cost you some ether as gas fee.
+5. As this is a demo application data validations are not imposed yet in frontend, So try to provide valid data always.
+  
 
 ## Stay in touch
 
